@@ -29,7 +29,7 @@ If you are interested in my research field, feel free to contact me by sending m
 
 🏢 Experiences
 -----
-- 2024.07 - 2025.07: Research intern at Intellifusion, Large Language Model Departmant, mentored by Dr. Xiaotian Yu.
+- 2024.07 - 2025.07: Research intern at Intellifusion, Large Language Model Departmant, mentored by Dr. [Xiaotian Yu](https://scholar.google.com/citations?user=LHgchLkAAAAJ&hl=en&oi=ao).
 
 💼 Services
 -----
