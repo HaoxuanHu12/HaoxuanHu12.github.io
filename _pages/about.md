@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "👀 About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-👀 About me
------
 I am currently a first-year master’s student at [School of Software Engineering](https://sse.sysu.edu.cn/), Sun Yat-sen University, supervised by Prof. [Weibin Wu](https://sse.sysu.edu.cn/teacher/249). I am also a member of the Zhuhai Key Laboratory of Trusted Large Language Models. Previously, I received my Bachelor’s degree in Software Engineering from Sun Yat-sen University in 2024.
 
 My research focuses on **Trustworthy Artificial Intelligence (TAI)**, with particular interests in privacy leakage in large language models (LLMs) and the robustness of LLMs and vision-language models (VLLMs). Specifically, I aim to evaluate the safety of these models across multiple dimensions, including harmful responses, copyrighted content, vulnerable code generation, and more.
