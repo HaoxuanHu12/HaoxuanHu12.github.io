@@ -9,56 +9,42 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+👀 关于我
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+中山大学软件工程学院研一在读，师从吴炜滨副教授，2024年于中山大学软件工程学院取得学士学位后推免至本校攻读硕士学位。研究方向与兴趣是可信人工智能，包括对抗攻击、代码大模型的鲁棒性、代码模型的侵权行为等。曾与香港中文大学 Michael R. Lyu 教授课题组合作，以学生一作身份在软件工程顶级会议FSE 2025上发表一篇论文，并赴挪威线下参会发表报告。
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+如果您对我的研究方向有兴趣，或者只是闲聊，都欢迎您发邮件跟我讨论讨论 😀
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+📕 发表文章
+-----
+- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A类会议, 学生一作, 口头分组讨论)**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+📖 教育背景
+-----
+- 2020.9 - 2024.7: 学士学位，中山大学软件工程学院
+- 2024.9 - 2027.7 (预期): 硕士学位, 中山大学软件工程学院
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+🥇 曾获奖项
+-----
+- 中山大学研究生一等奖助学金 **(4/34)**
+- 美国大学生数学竞赛 Honorable Mention Award
+- 中山大学优秀学生三等奖学金
+- 中山大学校级优秀社团干部
+
+🏢 工作经验
+-----
+- 2024.07至今: 深圳市云天励飞技术股份有限公司,研究型实习，大模型部, 师从余晓填博士
+
+📝 项目履历
+-----
+- 中山大学校级大学生创新创业项目，面向深度模型黑盒攻击的高效替代模型训练框架，2022年，主持，结项评级良好
+
+💼 学术服务
+-----
+- 子审稿人
+  - 2025: CVPR, TPAMI, Blocksys
+  - 2024: CVPR, TIFS
+
+🛫 国际交流
+-----
+- 2023.04 - 2023.07, 东北大学, 仙台 日本，环太平洋大学联盟虚拟交换
