@@ -15,7 +15,7 @@ If you are interested in my research field, feel free to contact me by sending m
 
 📕 Publications
 -----
-- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A Conference, Student First-author, Oral presentation)**
+- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A Conference, Student First-author, Talk presentation)**
 
 📖 Educations
 -----
