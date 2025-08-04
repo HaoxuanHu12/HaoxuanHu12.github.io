@@ -40,3 +40,11 @@ If you are interested in my research field, feel free to contact me by sending m
 🛫 International Exchange
 -----
 - 2023.04 - 2023.07, **Tohoku University**, Sendai Japan, APRU Virutal Student Exchange.
+
+
+🔗 News about me
+-----
+Here are some external links that includes some information about me:
+
+- [跨学科学习 | 软件工程学院 胡昊轩：探索多元学科 促进自我成长](https://jwb.sysu.edu.cn/article/2938)
+- [科研育才丨软件工程学院吴炜滨老师科研团队介绍](https://sse.sysu.edu.cn/node/812)
