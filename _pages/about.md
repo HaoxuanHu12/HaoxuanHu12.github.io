@@ -15,7 +15,7 @@ If you are interested in my research field, feel free to contact me by sending m
 
 📕 Publications
 -----
-- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A Conference, Student First-author, Talk presentation)**
+- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A Conference, Student First-author, Oral presentation)**
 
 📖 Educations
 -----
@@ -24,12 +24,12 @@ If you are interested in my research field, feel free to contact me by sending m
 
 🥇 Honors and Awards
 -----
-- Graduate Student First-Class Prize Scholarship, Sun Yat-sen University, 2024 **(4/34)**
+- Graduate Student First-Class Prize Scholarship, Sun Yat-sen University, 2024, 2025 **(4/34, 3/34)**
 - Honorable Mention Award, Mathematical Contest in Modeling (MCM), 2024
 
 🏢 Experiences
 -----
-- 2024.07 - 2025.07: Research intern at Intellifusion, Large Language Model Departmant, mentored by Dr. [Xiaotian Yu](https://scholar.google.com/citations?user=LHgchLkAAAAJ&hl=en&oi=ao).
+- 2024.07 - Current: Research intern at Intellifusion, Large Language Model Departmant, mentored by Dr. [Xiaotian Yu](https://scholar.google.com/citations?user=LHgchLkAAAAJ&hl=en&oi=ao).
 
 💼 Services
 -----
