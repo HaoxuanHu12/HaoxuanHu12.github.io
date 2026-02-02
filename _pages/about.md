@@ -34,7 +34,7 @@ If you are interested in my research field, feel free to contact me by sending m
 💼 Services
 -----
 - Reviewer
-  - 2026: CVPR
+  - 2026: CVPR, ECCV
 
 - Sub-reviewer
   - 2025: CVPR, TPAMI, Blocksys
