@@ -24,8 +24,8 @@ If you are interested in my research field, feel free to contact me by sending m
 
 🥇 Honors and Awards
 -----
-- Graduate Student First-Class Prize Scholarship, Sun Yat-sen University, 2024, 2025 **(4/34, 3/34)**
-- Honorable Mention Award, Mathematical Contest in Modeling (MCM), 2024
+- Graduate Student First-Class Prize Scholarship, Sun Yat-sen University, 2025, 2026 **(4/34, 3/34)**
+- Honorable Mention Award, Mathematical Contest in Modeling (MCM/ICM), 2024
 
 🏢 Experiences
 -----
