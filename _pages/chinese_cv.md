@@ -17,7 +17,7 @@ redirect_from:
 
 📕 发表文章
 -----
-- [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A类会议, 学生一作, 口头分组讨论)**
+- [FSE 2025] Weibin Wu (吴炜滨), **Haoxuan Hu** (胡昊轩), Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng (郑子彬) and Michael R. Lyu (吕荣聪). “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A类会议, 学生一作, 口头分组讨论)**
 
 📖 教育背景
 -----
