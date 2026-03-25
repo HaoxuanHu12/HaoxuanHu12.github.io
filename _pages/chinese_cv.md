@@ -43,7 +43,7 @@ redirect_from:
 💼 学术服务
 -----
 - 审稿人
-  - 2026: CVPR, ECCV
+  - 2026: CVPR, ECCV, NeurIPS
 
 - 子审稿人
   - 2025: CVPR, TPAMI, Blocksys
