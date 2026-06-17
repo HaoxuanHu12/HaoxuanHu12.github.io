@@ -13,6 +13,12 @@ My research focuses on **Trustworthy Artificial Intelligence (TAI)**, with parti
 
 If you are interested in my research field, feel free to contact me by sending me e-mails 😀.
 
+📰 News
+-----
+[2026.6] Our paper 'PromptStitch: Two-Stage Prompt Extraction via Template Matching and Suffix Optimization' has been accpeted to ISSRE 2026.
+[2025.4] Our paper 'An Empirical Study of Code Clones from Commercial AI Code Generators' has been accpeted to FSE 2025.
+
+
 📕 Publications
 -----
 - [FSE 2025] Weibin Wu, **Haoxuan Hu**, Zhaoji Fan, Yitong Qiao, Yizhan Huang, Yichen Li, Zibin Zheng and Michael R. Lyu. “An Empirical Study of Code Clones from Commercial AI Code Generators”. The ACM International Conference on the Foundations of Software Engineering, Trondheim, Norway, June 2025. **(CCF-A Conference, Student First-author, Oral presentation)**
