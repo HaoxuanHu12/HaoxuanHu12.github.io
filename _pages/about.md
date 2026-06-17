@@ -15,8 +15,9 @@ If you are interested in my research field, feel free to contact me by sending m
 
 📰 News
 -----
-[2026.6] Our paper 'PromptStitch: Two-Stage Prompt Extraction via Template Matching and Suffix Optimization' has been accpeted to ISSRE 2026.
-[2025.4] Our paper 'An Empirical Study of Code Clones from Commercial AI Code Generators' has been accpeted to FSE 2025.
+- [2026.6] Our paper 'PromptStitch: Two-Stage Prompt Extraction via Template Matching and Suffix Optimization' has been accpeted to ISSRE 2026.
+
+- [2025.4] Our paper 'An Empirical Study of Code Clones from Commercial AI Code Generators' has been accpeted to FSE 2025.
 
 
 📕 Publications
